@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&family=Orbitron:wght@400;700;900&display=swap');
+
+:root {
+  --deep-sea: #0a0e1a;
+  --vent-glow: #ff6b35;
+  --vent-warm: #ff8c42;
+  --mineral: #4ecdc4;
+  --molecule: #ffe66d;
+  --success: #06d6a0;
+  --danger: #ef476f;
+  --text: #e8e8e8;
+  --text-dim: #7a8ba8;
+  --card-bg: rgba(15, 22, 40, 0.92);
+  --border: rgba(78, 205, 196, 0.3);
+  --inventory-bg: rgba(255, 230, 109, 0.06);
+  --inventory-border: rgba(255, 230, 109, 0.25);
+}

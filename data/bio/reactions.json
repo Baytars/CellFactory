@@ -1,0 +1,233 @@
+{
+  "R00299": {
+    "id": "R00299",
+    "name": "ATP:D-glucose 6-phosphotransferase",
+    "definition": "ATP + D-Glucose <=> ADP + D-Glucose 6-phosphate",
+    "equation": "C00002 + C00031 <=> C00008 + C00092",
+    "enzymes": [
+      "2.7.1.1",
+      "2.7.1.2"
+    ],
+    "compoundIds": [
+      "C00002",
+      "C00031",
+      "C00008",
+      "C00092"
+    ],
+    "substrateIds": [
+      "C00002",
+      "C00031"
+    ],
+    "productIds": [
+      "C00008",
+      "C00092"
+    ],
+    "isReversible": true
+  },
+  "R00771": {
+    "id": "R00771",
+    "name": "D-glucose-6-phosphate aldose-ketose-isomerase",
+    "definition": "D-Glucose 6-phosphate <=> D-Fructose 6-phosphate",
+    "equation": "C00092 <=> C00085",
+    "enzymes": [
+      "5.3.1.9"
+    ],
+    "compoundIds": [
+      "C00092",
+      "C00085"
+    ],
+    "substrateIds": [
+      "C00092"
+    ],
+    "productIds": [
+      "C00085"
+    ],
+    "isReversible": true
+  },
+  "R04779": {
+    "id": "R04779",
+    "name": "ATP:D-fructose-6-phosphate 1-phosphotransferase",
+    "definition": "ATP + beta-D-Fructose 6-phosphate <=> ADP + beta-D-Fructose 1,6-bisphosphate",
+    "equation": "C00002 + C05345 <=> C00008 + C05378",
+    "enzymes": [
+      "2.7.1.11"
+    ],
+    "compoundIds": [
+      "C00002",
+      "C05345",
+      "C00008",
+      "C05378"
+    ],
+    "substrateIds": [
+      "C00002",
+      "C05345"
+    ],
+    "productIds": [
+      "C00008",
+      "C05378"
+    ],
+    "isReversible": true
+  },
+  "R01070": {
+    "id": "R01070",
+    "name": "beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)",
+    "definition": "beta-D-Fructose 1,6-bisphosphate <=> Glycerone phosphate + D-Glyceraldehyde 3-phosphate",
+    "equation": "C05378 <=> C00111 + C00118",
+    "enzymes": [
+      "4.1.2.13"
+    ],
+    "compoundIds": [
+      "C05378",
+      "C00111",
+      "C00118"
+    ],
+    "substrateIds": [
+      "C05378"
+    ],
+    "productIds": [
+      "C00111",
+      "C00118"
+    ],
+    "isReversible": true
+  },
+  "R01015": {
+    "id": "R01015",
+    "name": "D-glyceraldehyde-3-phosphate aldose-ketose-isomerase",
+    "definition": "D-Glyceraldehyde 3-phosphate <=> Glycerone phosphate",
+    "equation": "C00118 <=> C00111",
+    "enzymes": [
+      "5.3.1.1"
+    ],
+    "compoundIds": [
+      "C00118",
+      "C00111"
+    ],
+    "substrateIds": [
+      "C00118"
+    ],
+    "productIds": [
+      "C00111"
+    ],
+    "isReversible": true
+  },
+  "R01061": {
+    "id": "R01061",
+    "name": "D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)",
+    "definition": "D-Glyceraldehyde 3-phosphate + Orthophosphate + NAD+ <=> 3-Phospho-D-glyceroyl phosphate + NADH + H+",
+    "equation": "C00118 + C00009 + C00003 <=> C00236 + C00004 + C00080",
+    "enzymes": [
+      "1.2.1.12",
+      "1.2.1.59"
+    ],
+    "compoundIds": [
+      "C00118",
+      "C00009",
+      "C00003",
+      "C00236",
+      "C00004",
+      "C00080"
+    ],
+    "substrateIds": [
+      "C00118",
+      "C00009",
+      "C00003"
+    ],
+    "productIds": [
+      "C00236",
+      "C00004",
+      "C00080"
+    ],
+    "isReversible": true
+  },
+  "R01512": {
+    "id": "R01512",
+    "name": "ATP:3-phospho-D-glycerate 1-phosphotransferase",
+    "definition": "ATP + 3-Phospho-D-glycerate <=> ADP + 3-Phospho-D-glyceroyl phosphate",
+    "equation": "C00002 + C00197 <=> C00008 + C00236",
+    "enzymes": [
+      "2.7.2.3"
+    ],
+    "compoundIds": [
+      "C00002",
+      "C00197",
+      "C00008",
+      "C00236"
+    ],
+    "substrateIds": [
+      "C00002",
+      "C00197"
+    ],
+    "productIds": [
+      "C00008",
+      "C00236"
+    ],
+    "isReversible": true
+  },
+  "R01518": {
+    "id": "R01518",
+    "name": "D-phosphoglycerate 2,3-phosphomutase",
+    "definition": "2-Phospho-D-glycerate <=> 3-Phospho-D-glycerate",
+    "equation": "C00631 <=> C00197",
+    "enzymes": [
+      "5.4.2.11",
+      "5.4.2.12"
+    ],
+    "compoundIds": [
+      "C00631",
+      "C00197"
+    ],
+    "substrateIds": [
+      "C00631"
+    ],
+    "productIds": [
+      "C00197"
+    ],
+    "isReversible": true
+  },
+  "R00658": {
+    "id": "R00658",
+    "name": "2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)",
+    "definition": "2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O",
+    "equation": "C00631 <=> C00074 + C00001",
+    "enzymes": [
+      "4.2.1.11"
+    ],
+    "compoundIds": [
+      "C00631",
+      "C00074",
+      "C00001"
+    ],
+    "substrateIds": [
+      "C00631"
+    ],
+    "productIds": [
+      "C00074",
+      "C00001"
+    ],
+    "isReversible": true
+  },
+  "R00200": {
+    "id": "R00200",
+    "name": "ATP:pyruvate 2-O-phosphotransferase",
+    "definition": "ATP + Pyruvate <=> ADP + Phosphoenolpyruvate",
+    "equation": "C00002 + C00022 <=> C00008 + C00074",
+    "enzymes": [
+      "2.7.1.40"
+    ],
+    "compoundIds": [
+      "C00002",
+      "C00022",
+      "C00008",
+      "C00074"
+    ],
+    "substrateIds": [
+      "C00002",
+      "C00022"
+    ],
+    "productIds": [
+      "C00008",
+      "C00074"
+    ],
+    "isReversible": true
+  }
+}

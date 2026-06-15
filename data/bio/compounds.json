@@ -1,0 +1,234 @@
+{
+  "C00002": {
+    "id": "C00002",
+    "name": "ATP",
+    "names": [
+      "ATP",
+      "Adenosine 5'-triphosphate"
+    ],
+    "formula": "C10H16N5O13P3",
+    "exactMass": "506.9957",
+    "molWeight": "507.18"
+  },
+  "C00031": {
+    "id": "C00031",
+    "name": "D-Glucose",
+    "names": [
+      "D-Glucose",
+      "Grape sugar",
+      "Dextrose",
+      "Glucose",
+      "D-Glucopyranose"
+    ],
+    "formula": "C6H12O6",
+    "exactMass": "180.0634",
+    "molWeight": "180.16"
+  },
+  "C00008": {
+    "id": "C00008",
+    "name": "ADP",
+    "names": [
+      "ADP",
+      "Adenosine 5'-diphosphate"
+    ],
+    "formula": "C10H15N5O10P2",
+    "exactMass": "427.0294",
+    "molWeight": "427.20"
+  },
+  "C00092": {
+    "id": "C00092",
+    "name": "D-Glucose 6-phosphate",
+    "names": [
+      "D-Glucose 6-phosphate",
+      "Glucose 6-phosphate",
+      "Robison ester"
+    ],
+    "formula": "C6H13O9P",
+    "exactMass": "260.0297",
+    "molWeight": "260.14"
+  },
+  "C00085": {
+    "id": "C00085",
+    "name": "D-Fructose 6-phosphate",
+    "names": [
+      "D-Fructose 6-phosphate",
+      "D-Fructose 6-phosphoric acid",
+      "Neuberg ester"
+    ],
+    "formula": "C6H13O9P",
+    "exactMass": "260.0297",
+    "molWeight": "260.14"
+  },
+  "C05345": {
+    "id": "C05345",
+    "name": "beta-D-Fructose 6-phosphate",
+    "names": [
+      "beta-D-Fructose 6-phosphate",
+      "beta-D-Fructofuranose 6-phosphate"
+    ],
+    "formula": "C6H13O9P",
+    "exactMass": "260.0297",
+    "molWeight": "260.14"
+  },
+  "C05378": {
+    "id": "C05378",
+    "name": "beta-D-Fructose 1,6-bisphosphate",
+    "names": [
+      "beta-D-Fructose 1,6-bisphosphate"
+    ],
+    "formula": "C6H14O12P2",
+    "exactMass": "339.9961",
+    "molWeight": "340.12"
+  },
+  "C00111": {
+    "id": "C00111",
+    "name": "Glycerone phosphate",
+    "names": [
+      "Glycerone phosphate",
+      "Dihydroxyacetone phosphate",
+      "3-Hydroxy-2-oxopropyl phosphate"
+    ],
+    "formula": "C3H7O6P",
+    "exactMass": "169.9980",
+    "molWeight": "170.06"
+  },
+  "C00118": {
+    "id": "C00118",
+    "name": "D-Glyceraldehyde 3-phosphate",
+    "names": [
+      "D-Glyceraldehyde 3-phosphate",
+      "(2R)-2-Hydroxy-3-(phosphonooxy)-propanal",
+      "Glyceraldehyde 3-phosphate"
+    ],
+    "formula": "C3H7O6P",
+    "exactMass": "169.9980",
+    "molWeight": "170.06"
+  },
+  "C00009": {
+    "id": "C00009",
+    "name": "Orthophosphate",
+    "names": [
+      "Orthophosphate",
+      "Phosphate",
+      "Phosphoric acid",
+      "Orthophosphoric acid"
+    ],
+    "formula": "H3PO4",
+    "exactMass": "97.9769",
+    "molWeight": "98.00"
+  },
+  "C00003": {
+    "id": "C00003",
+    "name": "NAD+",
+    "names": [
+      "NAD+",
+      "NAD",
+      "Nicotinamide adenine dinucleotide",
+      "DPN",
+      "Diphosphopyridine nucleotide",
+      "Nadide",
+      "beta-NAD+"
+    ],
+    "formula": "C21H28N7O14P2",
+    "exactMass": "664.1169",
+    "molWeight": "664.43"
+  },
+  "C00236": {
+    "id": "C00236",
+    "name": "3-Phospho-D-glyceroyl phosphate",
+    "names": [
+      "3-Phospho-D-glyceroyl phosphate",
+      "1,3-Bisphospho-D-glycerate",
+      "(R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid",
+      "D-Glycerate 1,3-diphosphate"
+    ],
+    "formula": "C3H8O10P2",
+    "exactMass": "265.9593",
+    "molWeight": "266.04"
+  },
+  "C00004": {
+    "id": "C00004",
+    "name": "NADH",
+    "names": [
+      "NADH",
+      "DPNH",
+      "Reduced nicotinamide adenine dinucleotide"
+    ],
+    "formula": "C21H29N7O14P2",
+    "exactMass": "665.1248",
+    "molWeight": "665.44"
+  },
+  "C00080": {
+    "id": "C00080",
+    "name": "H+",
+    "names": [
+      "H+",
+      "Hydron"
+    ],
+    "formula": "H",
+    "exactMass": "1.0078",
+    "molWeight": "1.01"
+  },
+  "C00197": {
+    "id": "C00197",
+    "name": "3-Phospho-D-glycerate",
+    "names": [
+      "3-Phospho-D-glycerate",
+      "D-Glycerate 3-phosphate",
+      "3-Phospho-(R)-glycerate",
+      "3-Phosphoglycerate"
+    ],
+    "formula": "C3H7O7P",
+    "exactMass": "185.9929",
+    "molWeight": "186.06"
+  },
+  "C00631": {
+    "id": "C00631",
+    "name": "2-Phospho-D-glycerate",
+    "names": [
+      "2-Phospho-D-glycerate",
+      "D-Glycerate 2-phosphate",
+      "2-Phospho-(R)-glycerate"
+    ],
+    "formula": "C3H7O7P",
+    "exactMass": "185.9929",
+    "molWeight": "186.06"
+  },
+  "C00074": {
+    "id": "C00074",
+    "name": "Phosphoenolpyruvate",
+    "names": [
+      "Phosphoenolpyruvate",
+      "Phosphoenolpyruvic acid",
+      "PEP"
+    ],
+    "formula": "C3H5O6P",
+    "exactMass": "167.9824",
+    "molWeight": "168.04"
+  },
+  "C00001": {
+    "id": "C00001",
+    "name": "H2O",
+    "names": [
+      "H2O",
+      "Water"
+    ],
+    "formula": "H2O",
+    "exactMass": "18.0106",
+    "molWeight": "18.02"
+  },
+  "C00022": {
+    "id": "C00022",
+    "name": "Pyruvate",
+    "names": [
+      "Pyruvate",
+      "Pyruvic acid",
+      "2-Oxopropanoate",
+      "2-Oxopropanoic acid",
+      "Pyroracemic acid"
+    ],
+    "formula": "C3H4O3",
+    "exactMass": "88.0160",
+    "molWeight": "88.06"
+  }
+}
